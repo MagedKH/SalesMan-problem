@@ -27,7 +27,8 @@ Simulated Annealing Algorithm  :
 Files : salesman.py , SalesMan.jar , 
 Folders :SalesMan
 
-for more information chick "SalesMan\\dist\\README.txt 
+for more information chick "SalesMan\dist\README.txt 
+source codes : "SalesMan\src\salesman\*"
 
 *************************************************
 
